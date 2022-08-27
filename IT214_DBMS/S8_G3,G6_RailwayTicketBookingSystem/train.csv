@@ -1,0 +1,101 @@
+train_id,train_ne,arrival_time,departure_time,seats_available,date,tc_id
+101,elementum purus accumsan interdum,6:00:00 AM,3:15:00 PM,3,4/11/2022,5
+102,Suspendisse sed dolor.,2:51:00 PM,11:46:00 PM,11,8/11/2022,24
+103,di luctus lobortis. Class,7:38:00 AM,5:40:00 PM,9,11/16/2021,19
+104,fermentum metus.,8:09:00 PM,2:17:00 AM,16,12/19/2022,27
+105,Integer mollis. Integer tincidunt,10:58:00 AM,11:59:00 PM,1,8/11/2022,10
+106,enim condimentum,2:12:00 AM,6:46:00 AM,1,12/17/2021,12
+107,faucibus orci,12:45:00 PM,12:10:00 PM,14,12/4/2021,8
+108,dui. Cras pellentesque. Sed dictum.,1:05:00 PM,3:09:00 AM,9,8/12/2023,20
+109,aliquet,8:21:00 PM,11:46:00 AM,13,5/14/2022,8
+110,Sed congue elit,1:48:00 PM,4:47:00 PM,11,1/10/2023,28
+111,lacus. Cras interdum. Nunc,8:22:00 PM,3:38:00 PM,0,12/25/2021,28
+112,imperdiet erat,11:29:00 AM,11:41:00 PM,14,7/9/2022,22
+113,sit et,9:21:00 PM,6:25:00 PM,9,2/14/2022,19
+114,ultricies sem magna nec,6:38:00 PM,6:06:00 AM,6,8/11/2022,10
+115,interdum.,10:57:00 AM,12:43:00 PM,5,6/24/2023,7
+116,nunc ac,11:24:00 AM,11:43:00 PM,18,3/8/2022,18
+117,accumsan convallis,5:33:00 AM,4:51:00 PM,12,7/27/2023,5
+118,iaculis quis pede. Praesent,4:52:00 AM,12:54:00 PM,2,2/17/2023,16
+119,aliqu eros,2:57:00 AM,6:12:00 PM,7,8/2/2022,15
+120,pede,6:09:00 AM,11:50:00 PM,7,10/4/2021,24
+121,egestas blandit. N nulla,1:21:00 PM,8:23:00 PM,13,4/14/2023,3
+122,metus. Aliqu,12:38:00 PM,5:25:00 AM,3,10/1/2021,18
+123,bibendum fermentum metus.,11:06:00 AM,10:16:00 PM,1,11/15/2021,23
+124,nulla vulputate dui nec,10:47:00 AM,2:36:00 PM,14,3/4/2023,22
+125,in lobortis tellus justo,3:29:00 PM,11:48:00 AM,10,8/30/2022,12
+126,arcu. Sed,12:32:00 PM,1:21:00 AM,18,9/5/2021,16
+127,mollis,2:12:00 PM,9:03:00 PM,16,7/8/2022,6
+128,libero et,5:33:00 PM,10:54:00 AM,14,8/3/2023,2
+129,Fusce fermentum fermentum arcu.,8:40:00 PM,2:01:00 PM,13,9/10/2022,13
+130,eu eros. N consequat,9:37:00 AM,1:46:00 AM,6,10/11/2022,18
+131,Morbi accumsan,10:30:00 PM,4:23:00 AM,13,9/27/2021,10
+132,consectetuer mauris,5:40:00 PM,5:51:00 PM,16,6/6/2022,18
+133,dolor. Fusce mi lorem,1:14:00 PM,6:47:00 AM,17,3/4/2023,9
+134,nunc id,7:43:00 AM,11:47:00 AM,17,1/8/2023,21
+135,vitae nibh.,11:17:00 AM,7:32:00 PM,8,6/22/2023,27
+136,ullcorper nisl,10:16:00 PM,10:19:00 AM,14,6/7/2022,24
+137,rutrum,4:13:00 AM,7:59:00 AM,18,9/9/2021,22
+138,erat.,3:46:00 PM,4:50:00 PM,8,6/9/2022,3
+139,congue.,1:47:00 PM,7:17:00 PM,17,9/21/2021,18
+140,Donec tempus,11:51:00 AM,11:28:00 PM,5,1/14/2022,14
+141,dictum augue malesuada,9:01:00 AM,2:39:00 AM,14,6/23/2023,10
+142,Mauris,4:27:00 AM,10:27:00 AM,2,2/21/2022,27
+143,sollicitudin a malesuada,6:38:00 AM,1:13:00 PM,14,5/4/2023,4
+144,per conubia nostra,9:35:00 AM,9:43:00 AM,9,2/20/2023,22
+145,augue id ante dictum cursus.,11:08:00 PM,12:20:00 PM,7,2/15/2023,4
+146,Null vitae di. Proin,4:20:00 PM,8:29:00 AM,8,1/24/2023,30
+147,libero et,10:45:00 PM,8:23:00 AM,6,11/23/2022,26
+148,penatibus et magnis dis,2:08:00 AM,6:12:00 PM,1,10/26/2022,15
+149,suscipit nonummy.,8:06:00 AM,1:51:00 AM,15,11/1/2022,24
+150,orci. Ut,3:49:00 AM,12:42:00 PM,11,8/6/2022,4
+151,mus. Proin,1:32:00 AM,10:27:00 PM,16,1/14/2022,17
+152,nisl. Maecenas malesuada fringilla,8:19:00 PM,12:17:00 PM,9,5/29/2022,8
+153,felis ullcorper,1:54:00 AM,3:37:00 AM,13,8/12/2022,5
+154,et massa.,10:42:00 AM,10:41:00 PM,16,8/23/2022,18
+155,porta elit a,2:43:00 PM,4:35:00 AM,1,7/21/2023,2
+156,Donec,1:45:00 PM,3:01:00 AM,10,9/13/2021,21
+157,volutpat,10:57:00 AM,3:31:00 PM,9,9/3/2021,11
+158,Vestibulum ante,5:06:00 PM,5:26:00 AM,13,4/5/2022,1
+159,sem consequat,9:28:00 PM,4:43:00 PM,4,5/31/2022,9
+160,consequat enim di,5:46:00 AM,1:12:00 AM,12,7/20/2022,22
+161,mi lacinia mattis.,11:18:00 AM,12:28:00 PM,3,11/14/2022,29
+162,sit,9:46:00 AM,3:46:00 PM,15,10/10/2022,4
+163,interdum. Nunc sollicitudin commodo ipsum.,7:48:00 PM,10:30:00 AM,17,5/10/2023,21
+164,vitae orci. Phasellus dapibus,1:57:00 AM,1:45:00 PM,1,1/9/2022,2
+165,Praesent eu nulla at sem,7:48:00 AM,8:19:00 AM,0,12/8/2022,25
+166,vulputate posuere,8:25:00 PM,3:31:00 PM,1,11/14/2021,25
+167,neque. In,12:46:00 PM,9:23:00 AM,3,4/4/2023,24
+168,Mauris magna. Duis dignissim,4:37:00 PM,1:18:00 AM,8,10/8/2021,18
+169,sem,8:18:00 AM,9:42:00 PM,19,10/1/2022,2
+170,congue a aliquet vel,3:44:00 AM,1:09:00 AM,14,7/22/2022,22
+171,nunc est mollis non,4:44:00 PM,5:16:00 AM,10,2/11/2022,22
+172,volutpat. Nulla facilisis. Suspendisse,1:01:00 PM,4:09:00 PM,15,7/29/2023,17
+173,turpis. In condimentum.,7:42:00 PM,4:22:00 PM,14,10/6/2022,8
+174,a ultricies adipiscing enim mi,4:48:00 AM,4:00:00 PM,3,1/26/2023,23
+175,vel sapien imperdiet ornare.,11:57:00 AM,4:25:00 PM,15,11/14/2021,24
+176,est. Nunc laoreet lectus,3:08:00 AM,1:08:00 AM,13,2/16/2022,22
+177,Mauris ut,5:57:00 PM,4:50:00 PM,8,10/12/2021,14
+178,nec tempus,5:12:00 AM,10:31:00 AM,14,6/7/2023,28
+179,ornare lectus justo,5:06:00 PM,10:12:00 AM,10,5/28/2023,12
+180,parturient montes nascetur,7:47:00 PM,2:19:00 AM,10,9/7/2022,12
+181,sociis natoque,2:13:00 PM,11:55:00 AM,15,6/7/2023,13
+182,elit pellentesque a facilisis non,6:43:00 AM,10:32:00 AM,12,3/23/2022,9
+183,tellus faucibus leo in,6:51:00 PM,3:54:00 PM,13,9/20/2022,1
+184,arcu,7:43:00 PM,6:33:00 PM,17,4/1/2023,10
+185,eleifend. Cras sed leo.,6:39:00 AM,4:45:00 PM,16,6/30/2022,22
+186,Donec vitae erat vel pede,5:43:00 PM,6:41:00 PM,13,6/5/2022,22
+187,aliquet sem,6:04:00 AM,9:22:00 AM,3,11/6/2022,1
+188,Fusce mollis.,10:01:00 PM,2:50:00 AM,11,9/5/2021,7
+189,tempor,7:12:00 AM,10:25:00 PM,2,10/9/2022,9
+190,adipiscing ligula. Aenean,6:33:00 PM,5:28:00 PM,8,9/29/2021,10
+191,eu tempor erat neque non,8:01:00 PM,4:17:00 PM,1,10/28/2022,16
+192,eget massa.,9:40:00 AM,5:31:00 AM,11,1/31/2023,7
+193,ipsum dolor sit,3:48:00 AM,8:22:00 AM,16,11/29/2022,16
+194,Cras vehicula aliquet libero.,12:30:00 PM,8:04:00 AM,8,7/31/2022,24
+195,nonummy ipsum non arcu. Vivus,8:56:00 PM,11:14:00 AM,17,2/8/2022,15
+196,sodales at,12:15:00 PM,2:40:00 PM,4,6/24/2023,16
+197,lacus,9:19:00 AM,2:41:00 PM,10,11/10/2021,8
+198,mauris rhoncus id mollis nec,2:19:00 AM,12:27:00 PM,6,5/9/2023,9
+199,nulla at sem molestie sodales.,8:46:00 AM,6:25:00 AM,18,10/11/2022,25
+200,et magnis dis parturient,11:38:00 AM,11:27:00 PM,14,10/3/2021,18
